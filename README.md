@@ -13,3 +13,6 @@ More to come!
 ## Link(s)
 [Add the bot to your server](https://discord.com/oauth2/authorize?client_id=1546150889599926403&permissions=8&integration_type=0&scope=bot+applications.commands)
 [Discord support server](http://discord.gg/3zVb99kmnv)
+
+## License
+Use this code for whatever you want, as long as you don't copy it 1:1, and/or claim it's your own. 
