@@ -9,15 +9,9 @@ A somewhat general-purpose discord bot with its commands phrased differently tha
 /coin-flip ; do I need to explain? Flips a coin.  
   
 More to come!  
-
 ## Link(s)
-<<<<<<< HEAD
-[Add the bot to your server](https://discord.com/oauth2/authorize?client_id=1546150889599926403&permissions=8&integration_type=0&scope=bot+applications.commands)
-[Discord support server](http://discord.gg/3zVb99kmnv)
-
-## License
-Use this code for whatever you want, as long as you don't copy it 1:1, and/or claim it's your own. 
-=======
 [Add the bot to your server](https://discord.com/oauth2/authorize?client_id=1546150889599926403&permissions=8&integration_type=0&scope=bot+applications.commands)  
 [Discord support server](http://discord.gg/3zVb99kmnv)  
->>>>>>> 0410eb3ccd392d7d5572365c0e9765368d8f22b6
+
+## License
+Use this code for whatever you want, as long as you don't copy it 1:1, and/or claim it's your own.  
